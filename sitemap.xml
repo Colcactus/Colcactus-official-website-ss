@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://colcactus.ml/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/authors/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/authors/coldwith/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/post/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/authors/colcactus-studio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/authors/xiaofanjunm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://colcactus.ml/authors/luoshilv/</loc>
+  </url>
+  
+</urlset>

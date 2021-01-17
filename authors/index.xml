@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Colcactus Studio</title>
+    <link>https://colcactus.ml/authors/</link>
+    <description>Recent content in Authors on Colcactus Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://colcactus.ml/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>coldwith.</title>
+      <link>https://colcactus.ml/authors/coldwith/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://colcactus.ml/authors/coldwith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colcactus Studio</title>
+      <link>https://colcactus.ml/authors/colcactus-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://colcactus.ml/authors/colcactus-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小凡君m</title>
+      <link>https://colcactus.ml/authors/xiaofanjunm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://colcactus.ml/authors/xiaofanjunm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>洛诗旅</title>
+      <link>https://colcactus.ml/authors/luoshilv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://colcactus.ml/authors/luoshilv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

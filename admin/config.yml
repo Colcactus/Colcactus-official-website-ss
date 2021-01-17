@@ -1,0 +1,33 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+logo_url: https://kyun.ltyuanfang.cn/tc/2020/08/12/412171ddf8f35.png
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "文章" # Used in the UI, ie.: "New Post"
+    folder: "site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "正文", name: "body", widget: "markdown"}
+      - {label: "封面", name: "hero", widget: "string"}
+      - name: authors
+        label: 作者
+        widget: list
+        field: {name: text, label: 名字, widget: string}
+
+  - name: "pages"
+    label: "其他页面"
+    files:
+      - file: "site/content/_index.md"
+        label: "主页"
+        name: "home"
+        fields:
+          - {label: "主页", name: hero, widget: object, fields: [
+              {label: "标语", name: "heading", widget: string},
+              {label: "最大宽度", name: "maxWidthPX", widget: "text"}]}
